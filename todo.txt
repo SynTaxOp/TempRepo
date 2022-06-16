@@ -1,0 +1,2 @@
+1. Pull the data
+2. Commit the changes.
